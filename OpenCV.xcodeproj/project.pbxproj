@@ -97,6 +97,7 @@
 		AC68BD0E26D27092007C63F0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		ACB9B18826D4241E001CC97A /* stitching */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = stitching; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACB9B18A26D4241E001CC97A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		ACB9B18F26D7FEBC001CC97A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ACDDA87026B72E9B00A4ABE0 /* video */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = video; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACDDA87326B72E9B00A4ABE0 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		ACDDA87F26B7316400A4ABE0 /* col_detect */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = col_detect; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -190,6 +191,7 @@
 		ACDDA86726B72E9B00A4ABE0 = {
 			isa = PBXGroup;
 			children = (
+				ACB9B18F26D7FEBC001CC97A /* README.md */,
 				ACDDA87226B72E9B00A4ABE0 /* video */,
 				ACDDA88026B7316400A4ABE0 /* col_detect */,
 				ACDDA88B26B7375000A4ABE0 /* contour_extraction */,
